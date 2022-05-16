@@ -1,10 +1,53 @@
-- 👋 Hi, I’m @osaraivamatheus
-- 👀 I’m interested in statistical modelling.
-- 🌱 Currently studying the Master's in Agricultural Statistics and Experimentation, at the Master's Program at the Federal University of Lavras - UFLA. I have a degree in Actuarial Science, also with an interdisciplinary degree in Science and Economics, and specialization in Modeling in Science and Technology, all from the Federal University of Alfenas - UNIFAL. The subject of my master's dissertation is the comparison of machine learning models for detecting financial fraud, especially the practice of smurfing.
-- 💞️ I’m looking to collaborate on ML projects and Data Analisys
-- 📫 Contact: osaraivamatheus@gmail.com
+# Hi, I'm Matheus!
 
-<!---
-osaraivamatheus/osaraivamatheus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Master in Statistics and Actuary. Statistical inference and modeling make up my main passions within the academy. I currently work as a statistician/data scientist in machine learning models for detecting financial fraud, which was also the subject of [my master's thesis.](http://repositorio.ufla.br/handle/1/49447)
+
+
+## Languages
+
+<img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> <img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/> <img height=50  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+
+## Tools
+
+                                                                                          
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>TensorFlow</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Pandas</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Numpy</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Sklearn</strong></span><br>
+            <img height="32px" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-thumb.png">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Markdown</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Latex</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            
+</table>
+          
+## Repositories
+
+Most of my repositories were created to publicize the codes I wrote and that were used in my research in the fields of applied statistics and actuarial sciences.
