@@ -1,6 +1,6 @@
 # Hi, I'm Matheus!
 
-I am a Master in Statistics and Actuary. Statistical inference and modeling make up my main passions within the academy. I currently work as a statistician/data scientist in machine learning models for detecting financial fraud, which was also the subject of [my master's thesis.](http://repositorio.ufla.br/handle/1/49447)
+I'm master in Statistics and Actuary. Statistical inference and modeling make up my main passions within the academy. I currently work as a statistician/data scientist in machine learning models for detecting financial fraud, which was also the subject of [my master's thesis.](http://repositorio.ufla.br/handle/1/49447)
 
 
 ## Languages
