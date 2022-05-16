@@ -51,3 +51,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
 ## Repositories
 
 Most of my repositories were created to publicize the codes I wrote and that were used in my research in the fields of applied statistics and actuarial sciences.
+      
+## Find me on the web!
+      
+Contact me by osaraivamatheus@gmail.com and follow me on 
+
+[<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">](https://www.linkedin.com/in/o-atuario-matheus-saraiva/)  [<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">](https://twitter.com/matheusatuario?t=sRaHQFrVwYywWKpSpjgcwQ&s=08)  [<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">](https://github.com/osaraivamatheus/osaraivamatheus)
+ 
+ 
