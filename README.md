@@ -40,12 +40,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original
             <td width="80px" align="center">
             <span><strong>Latex</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
+              </td>
+            <td width="80px" align="center">
+            <span><strong>VScode</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             
 </table>
+      
+       
           
 ## Repositories
 
